@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577798812553",
+    "project_id": "playviet-wood-tile-matching",
+    "storage_bucket": "playviet-wood-tile-matching.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577798812553:android:ca3de86da6404d29cd2758",
+        "android_client_info": {
+          "package_name": "tile.match.wood.puzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9lmPpt6WHhq2-o5SDgMbdarQ5iyHIxB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
